@@ -1,6 +1,9 @@
-# 💫 About Me:
-🔭Hi there! I'm Muhammad Subhan Khurshid, currently a bachelor's student majoring in Artificial Intelligence at FAST Karachi. My journey in the realm of technology revolves around exploring various facets of Artificial Intelligence, particularly focusing on machine learning, deep learning, and neural networks.<br>In my pursuit of knowledge, I have delved into diverse areas within AI, constantly seeking to broaden my skill set and deepen my understanding. Recently, I've also ventured into the realm of web development, finding fascination in crafting interactive and dynamic user experiences.<br><br>⚡ Tech Stack<br>⚡ Primary Focus: MERN Stack<br>⚡ Additional Tools: NEXT.js, Tailwind CSS<br>🌱 Emerging Interest: TensorFlow<br>🤝 What I Bring<br>      I bring hands-on experience in leveraging the MERN stack to develop robust web applications, complemented by a keen interest in exploring the potential of TensorFlow for advanced AI applications. I’m currently working on<br>
+# 👋 Hi, I'm Subhan:
+I’m an **Artificial Intelligence** graduate and currently working as a **Machine Learning Engineer**, where I build and optimize cutting-edge **Generative AI** and **ML-driven applications**.
+Beyond AI, I also bring strong expertise in software engineering, with hands-on experience in web development **(MERN, Next.js, Java, Python)** and backend systems.
 
+I’ve successfully delivered multiple projects for clients through freelancing, helping them scale their products and making my customers truly happy 🚀.
+I’m also passionate about open-source contributions and continuously exploring innovative technologies to solve real-world problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subhankhurshid/) 
